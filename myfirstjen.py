@@ -1,7 +1,4 @@
-i
+print ("dileep: ")
+print("hello")
 
-A
-A
-jjkhfkjh
-jbdjd
 
